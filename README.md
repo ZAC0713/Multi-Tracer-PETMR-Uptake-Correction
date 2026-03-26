@@ -1,5 +1,7 @@
-# A unified deep learning framework for cross-platform harmonization of multitracer PET quantification in neurodegenerative disease (NPJ Digital Medicine, Principally Accept)
-# Multi-tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-Adaptive Routing (MICCAI2025, Early Accpet, top 9%)
+# NPJ Digital Medicine, Principally Accept
+A unified deep learning framework for cross-platform harmonization of multitracer PET quantification in neurodegenerative disease
+# MICCAI2025, Early Accpet, top 9%
+Multi-tracer Uptake Correction for PET-MR via Aligned-Feature Guidance and Multi-scale Pixel-Adaptive Routing ()
 
 PyTorch implementation for **Multi-Tracer-PETMR-Uptake-Correction**
 
